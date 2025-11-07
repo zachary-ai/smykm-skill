@@ -114,7 +114,9 @@ MIT License - Use freely, share widely, improve together.
 
 ## Credits
 
-Developed through analysis of 500+ successful SMYKM outreach campaigns across multiple industries and refined through practical application in B2B sales environments.
+This framework is based on the SMYKM (Show Me You Know Me) methodology originally developed by [Sam Sales Consulting](https://www.samsalesconsulting.com/showmeyouknowme/).
+
+This implementation was developed through analysis of 500+ successful SMYKM outreach campaigns across multiple industries and refined through practical application in B2B sales environments.
 
 ---
 
